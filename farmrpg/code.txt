@@ -1,0 +1,3 @@
+crop 2000원
+farm 1000원
+farmer 보통호미
